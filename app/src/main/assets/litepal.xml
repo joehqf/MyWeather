@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="my_weather"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="cn.diqizhang.myweather.db.Province"/>
+        <mapping class="cn.diqizhang.myweather.db.City"/>
+        <mapping class="cn.diqizhang.myweather.db.County"/>
+    </list>
+</litepal>
